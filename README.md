@@ -1,1 +1,1 @@
-# Coletânea de formas para limpar terminal em Python
+Coletânea de formas para limpar terminal em Python
